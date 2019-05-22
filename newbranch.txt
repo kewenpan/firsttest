@@ -5,3 +5,4 @@ commit 3
 commit use rebase
 rebase commit 1
 rebase commit 2
+master rebase edit
